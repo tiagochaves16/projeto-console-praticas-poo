@@ -58,8 +58,6 @@ namespace ExercicioList
             }
 
 
-            Console.WriteLine("-------------------------------------------------------------");
-
            // Console.WriteLine("Updated list of employees:");
 
             Console.ReadKey();
